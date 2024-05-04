@@ -1,14 +1,23 @@
-## Description
-Please provide a clear and concise description of the feature you are requesting.
+---
+name: Feature Request 🌈
+about: Propose a new feature for this project 🌟
+title: "[FEATURE] Short description of the feature 🚀"
+labels: feature
+assignees: ''
 
-## Problem
-Please explain the problem or need that this feature would address.
+---
 
-## Proposed Solution
-Please describe your proposed solution or implementation for the feature.
+**Feature Description** 🌟
+A detailed description of the feature.
 
-## Alternatives Considered
-Please mention any alternative solutions or features you have considered.
+**Problem it Solves** 🧩
+Describe the problem that this feature solves or the need it addresses.
 
-## Additional Notes
-Please provide any additional information or context that may be helpful for understanding and implementing the feature.
+**Proposed Solution** 🛠️
+Suggest how this feature should be implemented if you have ideas.
+
+**Additional Context** ➕
+Any other information about the feature request, including mockups, diagrams, or comparable features in other applications.
+
+**Examples in Other Applications** 📲
+If applicable, share examples of similar features in other apps or websites.
