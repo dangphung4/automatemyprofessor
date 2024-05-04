@@ -20,10 +20,10 @@ The project follows a monorepo structure with two main directories:
 The React application communicates with the Python bot through API endpoints to send user prompts and receive generated fake reviews.
 
 ## Prerequisites
-- Python 3.x
-- Node.js and npm
+- Python 3.11
+- Node.js 18.0+ and npm
 - AWS account for hosting the Python bot
-- Vercel account for hosting the React application
+- Vercel account for hosting the React application, will use react + vite
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/yourusername/rate-my-professor-bot.git`
