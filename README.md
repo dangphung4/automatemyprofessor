@@ -38,7 +38,7 @@ The React application communicates with the Python bot through API endpoints to 
 4. Start the development servers:
    - In the `bot` directory, run: `python app.py`
    - In the `webapp` directory, run: `npm run dev`
-5. Access the application in your browser at `http://localhost:3000`
+5. Access the application in your browser at `http://localhost:5173`
 
 ## Deployment
 - Deploy the Python bot to AWS using the provided deployment scripts and instructions
