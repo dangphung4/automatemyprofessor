@@ -59,6 +59,6 @@ If you encounter any issues or have suggestions for improvements, please create 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or further information, please contact the project maintainer at [email@example.com](mailto:email@example.com).
+For any inquiries or further information, please contact the project maintainer at [dangphung4@gmail.com](mailto:dangphung4@egmail.com).
 
 We hope you find the Rate My Professor Bot useful and enjoy using it to generate realistic fake reviews for professors!
