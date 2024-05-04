@@ -26,7 +26,7 @@ The React application communicates with the Python bot through API endpoints to 
 - Vercel account for hosting the React application, will use react + vite
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/rate-my-professor-bot.git`
+1. Clone the repository: `git clone git@github.com:dangphung4/automatemyprofessor.git`
 2. Set up the Python bot:
    - Navigate to the `bot` directory: `cd bot`
    - Install the required Python dependencies: `pip install -r requirements.txt`
